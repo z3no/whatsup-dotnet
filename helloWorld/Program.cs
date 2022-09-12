@@ -30,3 +30,36 @@ Console.WriteLine(12.30m);
 // The bool literals represent the idea of truth and falsehood.
 Console.WriteLine(true);
 Console.WriteLine(false);
+
+// Setting and getting values from variables
+string firstName;
+firstName = "Zeno";
+Console.WriteLine(firstName);
+
+// Reassign the value of a variable
+string firstName;
+firstName = "Zeno";
+Console.WriteLine(firstName);
+firstName = "Pablo";
+Console.WriteLine(firstName);
+firstName = "Lucas";
+Console.WriteLine(firstName);
+firstName = "Alex";
+Console.WriteLine(firstName);
+
+// Initializing the variable
+string firstName = "Zeno";
+Console.WriteLine(firstName);
+
+// Challenge
+string firstName = "Zeno";
+int amount = 3;
+decimal temperature = 34.4m;
+
+Console.Write("Hello, ");
+Console.Write(firstName);
+Console.Write("! You have ");
+Console.Write(amount);
+Console.Write(" messages in your inbox. The temperature is ");
+Console.Write(temperature);
+Console.Write(" celsius.");
