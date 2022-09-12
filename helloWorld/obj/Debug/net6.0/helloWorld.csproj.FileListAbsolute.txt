@@ -1,0 +1,15 @@
+/Users/zeno/Sites/becode/whatsup-dotnet/helloWorld/bin/Debug/net6.0/helloWorld
+/Users/zeno/Sites/becode/whatsup-dotnet/helloWorld/bin/Debug/net6.0/helloWorld.deps.json
+/Users/zeno/Sites/becode/whatsup-dotnet/helloWorld/bin/Debug/net6.0/helloWorld.runtimeconfig.json
+/Users/zeno/Sites/becode/whatsup-dotnet/helloWorld/bin/Debug/net6.0/helloWorld.dll
+/Users/zeno/Sites/becode/whatsup-dotnet/helloWorld/bin/Debug/net6.0/helloWorld.pdb
+/Users/zeno/Sites/becode/whatsup-dotnet/helloWorld/obj/Debug/net6.0/helloWorld.csproj.AssemblyReference.cache
+/Users/zeno/Sites/becode/whatsup-dotnet/helloWorld/obj/Debug/net6.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeno/Sites/becode/whatsup-dotnet/helloWorld/obj/Debug/net6.0/helloWorld.AssemblyInfoInputs.cache
+/Users/zeno/Sites/becode/whatsup-dotnet/helloWorld/obj/Debug/net6.0/helloWorld.AssemblyInfo.cs
+/Users/zeno/Sites/becode/whatsup-dotnet/helloWorld/obj/Debug/net6.0/helloWorld.csproj.CoreCompileInputs.cache
+/Users/zeno/Sites/becode/whatsup-dotnet/helloWorld/obj/Debug/net6.0/helloWorld.dll
+/Users/zeno/Sites/becode/whatsup-dotnet/helloWorld/obj/Debug/net6.0/refint/helloWorld.dll
+/Users/zeno/Sites/becode/whatsup-dotnet/helloWorld/obj/Debug/net6.0/helloWorld.pdb
+/Users/zeno/Sites/becode/whatsup-dotnet/helloWorld/obj/Debug/net6.0/helloWorld.genruntimeconfig.cache
+/Users/zeno/Sites/becode/whatsup-dotnet/helloWorld/obj/Debug/net6.0/ref/helloWorld.dll
