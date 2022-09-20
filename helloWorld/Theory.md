@@ -723,3 +723,56 @@ switch (product[2])
 
 Console.WriteLine($"Product: {size} {color} {type}");
 ```
+
+***
+
+### The for statement
+
+- The `for` iteration statement allows you to iterate through a block of code a specific number of times.
+- The `for` iteration statement allows you to control every aspect of the iteration's mechanics by altering the three conditions inside the parenthesis: the initializer, condition, and iterator.
+- It's common to use the `for` statement when you need to control how you want to iterate through each item in an array.
+- If you code block has only one line of code, you can eliminate the opening and closing curly braces and white space if you wish.
+
+#### FizzBuzz challenge
+FizzBuzz is a popular coding challenge.
+
+```
+/*
+
+FizzBuzz rules:
+
+- Output values from 1 to 100, one number per line.
+- When the current value is divisible by 3, print the term FIZZ next to the number.
+- When the current value is divisible by 5, print the term BUZZ next to the number.
+- When the current value is divisible by both 3 and 5, print the term FIZZBUZZ next to the number.
+
+*/
+
+for (int i = 1; i <= 100; i++)
+{
+    if ((i % 3 == 0) && (i % 5 == 0))
+    {
+        Console.WriteLine(i + " - FizzBuzz");
+    } 
+    else if (i % 5 == 0)
+    {
+        Console.WriteLine(i + " - Buzz");
+    }
+    else if (i % 3 == 0)
+    {
+        Console.WriteLine(i + " - Fizz");
+    }
+    else Console.WriteLine(i);
+}
+```
+`for` statement allows us to iterate through the code block 100 times.
+`if-elseif-else` allows you to check for the divisors of 3 and 5.
+`%` the mod operator allows you to determine if 3 or 5 divide into another number without a remainder.
+`&&` operator ensures that a number can be divided into both 3 and 5 for the `FizzBuzz` condition.
+
+***
+
+### Add looping logic to your code using the do-while and while statements in C#
+- The `do-while` statement iterates through a code block at least once, and may continue to iterate based on a Boolean expression. The evaluation of the Boolean expression usually depends on some value generated or retrieved inside of the code block.
+- The `while` statement evaluates a Boolean expression first, and continues to iterate through the code block as long as the Boolean expression evaluates to `true`.
+- Use the `continue` keyword to step immediately to the Boolean expression
